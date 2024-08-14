@@ -1,13 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a7850c3f-9d5b-4b69-bbab-7dcce5ed7a3d" name="Changes" comment="New heap class added.">
-      <change beforePath="$PROJECT_DIR$/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/BinaryHeapExtractMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/BuildHeapMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/ConnectingTwoRopesMinCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/ExtractMinFromHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/InsertionInMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/MaximumArraySumBNegations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/MinimumLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap1/MishaAndCandiesProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heap1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +52,82 @@
       <recent name="C:\Users\Satish Kumar\Documents\IntelliJ_Projects\PracticeHeap\src" />
     </key>
   </component>
+  <component name="RunManager" selected="Application.MaximumArraySumBNegations">
+    <configuration name="BuildHeapMinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap1.BuildHeapMinHeap" />
+      <module name="PracticeHeap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumArraySumBNegations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap1.MaximumArraySumBNegations" />
+      <module name="PracticeHeap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumLargestElement (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap1.MinimumLargestElement" />
+      <module name="PracticeHeap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap1.MinimumLargestElement" />
+      <module name="PracticeHeap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MishaAndCandiesProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap1.MishaAndCandiesProblem" />
+      <module name="PracticeHeap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="heap1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MaximumArraySumBNegations" />
+        <item itemvalue="Application.MishaAndCandiesProblem" />
+        <item itemvalue="Application.MinimumLargestElement" />
+        <item itemvalue="Application.MinimumLargestElement (1)" />
+        <item itemvalue="Application.BuildHeapMinHeap" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -49,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1723555294471</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New heap class added.">
+      <created>1723555359168</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723555359168</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
