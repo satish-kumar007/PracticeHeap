@@ -4,17 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7850c3f-9d5b-4b69-bbab-7dcce5ed7a3d" name="Changes" comment="New heap class added.">
-      <change afterPath="$PROJECT_DIR$/src/heap1/BinaryHeapExtractMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/BuildHeapMinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/ConnectingTwoRopesMinCost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/ExtractMinFromHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/InsertionInMinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/MaximumArraySumBNegations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/MinimumLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap1/MishaAndCandiesProblem.java" afterDir="false" />
+    <list default="true" id="a7850c3f-9d5b-4b69-bbab-7dcce5ed7a3d" name="Changes" comment="New heap classes added.">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/AthLargestElementWindowSliding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/BuildMaxHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/KPlacesApart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/KthLargestElementMinHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/KthLargestElementMinHeap_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/RunningMedianFlipKart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/heap2/SortArrayUsingHeapSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Heap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Heap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heap1/MaximumArraySumBNegations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap1/MaximumArraySumBNegations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "last_opened_file_path": "C:/Users/Satish Kumar/Documents/IntelliJ_Projects/PracticeHeap"
   }
@@ -52,13 +53,13 @@
       <recent name="C:\Users\Satish Kumar\Documents\IntelliJ_Projects\PracticeHeap\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumArraySumBNegations">
-    <configuration name="BuildHeapMinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap1.BuildHeapMinHeap" />
+  <component name="RunManager" selected="Application.KPlacesApart">
+    <configuration name="AthLargestElementWindowSliding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap2.AthLargestElementWindowSliding" />
       <module name="PracticeHeap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap1.*" />
+          <option name="PATTERN" value="heap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumArraySumBNegations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap1.MaximumArraySumBNegations" />
+    <configuration name="KPlacesApart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap2.KPlacesApart" />
       <module name="PracticeHeap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap1.*" />
+          <option name="PATTERN" value="heap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLargestElement (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap1.MinimumLargestElement" />
+    <configuration name="KthLargestElementMinHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap2.KthLargestElementMinHeap" />
       <module name="PracticeHeap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap1.*" />
+          <option name="PATTERN" value="heap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap1.MinimumLargestElement" />
+    <configuration name="KthLargestElementMinHeap_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap2.KthLargestElementMinHeap_1" />
       <module name="PracticeHeap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap1.*" />
+          <option name="PATTERN" value="heap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MishaAndCandiesProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="heap1.MishaAndCandiesProblem" />
+    <configuration name="SortArrayUsingHeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="heap2.SortArrayUsingHeapSort" />
       <module name="PracticeHeap" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="heap1.*" />
+          <option name="PATTERN" value="heap2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumArraySumBNegations" />
-        <item itemvalue="Application.MishaAndCandiesProblem" />
-        <item itemvalue="Application.MinimumLargestElement" />
-        <item itemvalue="Application.MinimumLargestElement (1)" />
-        <item itemvalue="Application.BuildHeapMinHeap" />
+        <item itemvalue="Application.KPlacesApart" />
+        <item itemvalue="Application.AthLargestElementWindowSliding" />
+        <item itemvalue="Application.KthLargestElementMinHeap_1" />
+        <item itemvalue="Application.KthLargestElementMinHeap" />
+        <item itemvalue="Application.SortArrayUsingHeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -151,11 +152,19 @@
       <option name="project" value="LOCAL" />
       <updated>1723555359168</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New heap classes added.">
+      <created>1723644838132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723644838132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New heap class added." />
-    <option name="LAST_COMMIT_MESSAGE" value="New heap class added." />
+    <MESSAGE value="New heap classes added." />
+    <option name="LAST_COMMIT_MESSAGE" value="New heap classes added." />
   </component>
 </project>
