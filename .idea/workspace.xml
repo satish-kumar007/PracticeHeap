@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7850c3f-9d5b-4b69-bbab-7dcce5ed7a3d" name="Changes" comment="15-08-2024: New heap classes added.">
-      <change afterPath="$PROJECT_DIR$/src/greedy/AnotherCoinProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/AssignMiceToHoles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/DistributeCandies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/FinishMaximumJobs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/greedy/FlipkartChallengeEffectiveInventoryManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heap2/KthSmallestElementSortedMatrix.java" afterDir="false" />
+    <list default="true" id="a7850c3f-9d5b-4b69-bbab-7dcce5ed7a3d" name="Changes" comment="18-08-2024: New heap classes added.">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PracticeTrees" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "C:/Users/Satish Kumar/Documents/IntelliJ_Projects/PracticeHeap"
+    "last_opened_file_path": "C:/Users/Satish Kumar/Documents/IntelliJ_Projects/PracticeTrees"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -163,13 +158,21 @@
       <option name="project" value="LOCAL" />
       <updated>1723730409663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="18-08-2024: New heap classes added.">
+      <created>1723944379226</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723944379226</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New heap class added." />
     <MESSAGE value="New heap classes added." />
     <MESSAGE value="15-08-2024: New heap classes added." />
-    <option name="LAST_COMMIT_MESSAGE" value="15-08-2024: New heap classes added." />
+    <MESSAGE value="18-08-2024: New heap classes added." />
+    <option name="LAST_COMMIT_MESSAGE" value="18-08-2024: New heap classes added." />
   </component>
 </project>
